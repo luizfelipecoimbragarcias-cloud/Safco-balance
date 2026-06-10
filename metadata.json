@@ -1,0 +1,6 @@
+{
+  "name": "Safco balance",
+  "description": "Sistema ágil para registro de romaneios de pesagem e lançamento de peso por palete. Criado por Felipe Garcias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
